@@ -1,0 +1,33 @@
+# Ambiente Virtual (Qualquer OS ou nome de pasta)
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Cache do Python e Compilação
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.spec
+*.manifest
+
+# Ficheiros de Imagem / Sprites (Proteção de Copyright)
+*.gif
+*.webp
+*.png
+
+# Sistema Operativo & IDEs
+.vscode/
+.idea/
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Logs
+*.log
